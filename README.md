@@ -29,3 +29,10 @@ This project is structured to have a backend built with Flask and a frontend bui
 - **requirements.txt**: File listing Python packages and their versions required for the project.
 
 - **run.py**: Script to run your Flask application.
+
+# Prepare your environment
+
+pip install -r requirements.txt
+
+python -m pip install "pymongo[srv]==3.11"
+
